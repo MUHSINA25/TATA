@@ -47,5 +47,5 @@ This Power BI project analyzes business performance metrics, providing actionabl
 - **Data Cleaning**: Removal of invalid entries (negative values).
 - **Data Source**: Online Retail dataset for 2011
 
-  https://github.com/MUHSINA25/TATA.git
+
 
